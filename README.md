@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bestebes
+- 👋 Hi, I’m Beste
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Kotlin & Swift programming languages
 - 💞️ I’m looking to collaborate on nothing yet
