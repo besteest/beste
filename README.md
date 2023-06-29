@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bestebes
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python, C# and Java
+- 🌱 I’m currently learning Kotlin & Swift programming languages
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me besteeest@gmail.com
 
